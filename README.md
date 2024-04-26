@@ -13,7 +13,7 @@
 - 🌪️ TailwindCSS
 - ☕ Java
 - 🧪 Testing con JUnit y Mockito
-- 🌱 Spring
+- 🌱 Spring Boot
 - 🌥️ Spring Cloud
 - 🔒 Spring Security
 - 🐬 MySQL
