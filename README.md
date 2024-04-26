@@ -12,7 +12,7 @@
 - 🅱️ Bootstrap
 - 🌪️ TailwindCSS
 - ☕ Java
-- 🧪 Testing con JUnit y Mockito
+- 🧪 Testing with JUnit and Mockito
 - 🌱 Spring Boot
 - 🌥️ Spring Cloud
 - 🔒 Spring Security
