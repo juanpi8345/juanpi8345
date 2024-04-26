@@ -6,16 +6,18 @@
 
 - 💻 HTML
 - 🎨 CSS
-- 🚀 JavaScript
-- 💼 TypeScript
+- 🚀 Javascript
+- 💼 Typescript
 - 🅰️ Angular
 - 🅱️ Bootstrap
-- 🌪️ Tailwind CSS
+- 🌪️ TailwindCSS
 - ☕ Java
 - 🧪 Testing con JUnit y Mockito
 - 🌱 Spring
+- 🌥️ Spring Cloud
+- 🔒 Spring Security
 - 🐬 MySQL
-- 
+  
 <!--
 **juanpi8345/juanpi8345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
