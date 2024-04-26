@@ -4,11 +4,17 @@
 
 ## Skills
 
-- Java
-- Spring Boot
-- Angular
-- Testing (JUnit, Mockito)
-- Git
+- 💻 HTML
+- 🎨 CSS
+- 🚀 JavaScript
+- 💼 TypeScript
+- 🅰️ Angular
+- 🅱️ Bootstrap
+- 🌪️ Tailwind CSS
+- ☕ Java
+- 🧪 Testing con JUnit y Mockito
+- 🌱 Spring
+- 🐬 MySQL
 <!--
 **juanpi8345/juanpi8345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
