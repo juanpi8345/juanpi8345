@@ -24,7 +24,7 @@
 
 ## Website
 
-![juan-pregliasco.web.app](web.png)
+[![juan-pregliasco.web.app](web.png)](https://juan-pregliasco.web.app)
   
 <!--
 **juanpi8345/juanpi8345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
