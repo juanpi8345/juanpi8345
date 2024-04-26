@@ -20,7 +20,7 @@
 
 ## Most used languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpi8345&layout=compact&langs_count=8&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpi8345&layout=compact&langs_count=6&theme=dark)
 
   
 <!--
